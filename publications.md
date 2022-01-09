@@ -21,4 +21,3 @@ order: 2
 {% endfor %}
 
 \* equal first author contribution  
-\*\* equal last author contribution
