@@ -1,0 +1,43 @@
+- authors: M. Mittnenzweig\*, Y. Mayshar\*, S. Cheng, R. Ben-Yair, R. Hadas, Y. Rais, E. Chomsky, N. Reines, A. Uzonyi, L. Lumerman, A. Lifshitz, Z. Mukamel, A.-H. Orenbuch, A. Tanay, Y. Stelzer
+  title: "A single-embryo, single-cell time-resolved model for mouse gastrulation"
+  journal: Cell
+  year: 2021
+  detail: Vol. 184, 2825-2842
+  links:
+      doi: https://doi.org/10.1016/j.cell.2021.04.004
+      github: https://github.com/tanaylab/embflow
+  media: You can browse the single-cell data [here](https://tanaylab.weizmann.ac.il/embflow/).
+
+- authors: A. Mielke and M. Mittnenzweig
+  title: "Convergence to equilibrium in energy-reaction-diffusion systems using vector-valued functional inequalities"
+  journal: J Nonlinear Sci   
+  year: 2018
+  detail: Vol. 28, 765-806
+  links:
+      doi: https://doi.org/10.1007/s00332-017-9427-9
+
+- authors: M. Kantner, M. Mittnenzweig, T. Koprucki
+  title: "Hybrid quantum-classical modeling of quantum dot devices"
+  journal: Phys Rev B
+  year: 2017
+  detail: Vol. 96, 205301
+  links:
+      doi: https://doi.org/10.1103/PhysRevB.96.205301
+
+- authors: M. Mittnenzweig and A. Mielke
+  title: "An Entropic Gradient Structure for Lindblad Equations and Couplings of Quantum Systems to Macroscopic Models"
+  journal: J Stat Phys
+  year: 2017
+  detail: Vol. 167, 205-233
+  links:
+      doi: https://doi.org/10.1007/s10955-017-1756-4
+
+- authors: M. Düttmann, M. Mittnenzweig, Y. Togashi, T. Yanagida, A.S. Mikhailov 
+  title: "Complex Intramolecular Mechanics of G-actin — An Elastic Network Study"
+  journal: PLoS ONE
+  year: 2012
+  detail: Vol. 7, e45859
+  links:
+      doi: https://doi.org/10.1371/journal.pone.0045859
+
+- 

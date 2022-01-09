@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Markus Mittnenzweig
+tagline:          'Embryonic development and mathematical modeling'
+description:      'Postdoc at the Weizmann Institute of Science'
+url:              http://mmittnenzweig.github.io/
+baseurl:          /
+
+# author:
+#  name:           'Markus Mittnenzweig'
+#  url:            https://twitter.com/xyz
