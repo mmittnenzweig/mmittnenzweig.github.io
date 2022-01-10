@@ -8,12 +8,14 @@ order: 3
 
 Since 03/2019 -- Postdoctoral Research at Weizmann Institute of Science
   <small>
+  <br>
 Working in the group of [Amos Tanay](https://www.weizmann.ac.il/math/tanay/).  
   </small> 
 <br>
 
 2015-2017 -- Doctoral Research in Mathematics at the Weierstrass Institute of Applied Analysis and Stochastics (WIAS) and Humboldt University, Berlin
   <small>
+  <br>
 Mathematical modelling and analysis in the research group on [Partial Differential Equations](https://www.wias-berlin.de/research/rgs/fg1/) led by Alexander Mielke.  
   </small>
 <br>
