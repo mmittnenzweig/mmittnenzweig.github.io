@@ -18,29 +18,29 @@ ul {
     list-style-type: square;
 }
 
-.theme-libuchauer .content {
+.theme-mmittnenzweig .content {
   padding-top:    1.5rem;
   padding-bottom: 1.5rem;
 }
-.theme-libuchauer .content a,
-.theme-libuchauer .related-posts li a:hover {
+.theme-mmittnenzweig .content a,
+.theme-mmittnenzweig .related-posts li a:hover {
   color: #f47a60;
 }
 
 /* Sidebar nav */
-.theme-libuchauer .sidebar {
+.theme-mmittnenzweig .sidebar {
   background-color: #1d3c45;
   padding: 0.25rem 0.5rem;
   color: #f47a60;
 }
 @media (min-width: 48em) {
-  .theme-libuchauer .sidebar {
+  .theme-mmittnenzweig .sidebar {
     padding: 2rem 1rem;
   }
 }
 
 /* Sidebar links */
-  .theme-libuchauer .sidebar a {
+  .theme-mmittnenzweig .sidebar a {
     color: #fff1e1;
     font-family: "Lucida Console", Monaco, monospace;
 ;
